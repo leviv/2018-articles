@@ -1,6 +1,5 @@
 <?php
-$religion = 'Christian';
-$name = 'Simon';
+$race = 'black';
 $first = "hospital";
 include ('../../inc/functions.php');
 include ('data.php');
