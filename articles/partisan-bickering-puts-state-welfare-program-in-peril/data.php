@@ -3,7 +3,6 @@ $identifier = 'trust';
 $title = 'Partisan Bickering Puts State Welfare Program in Peril';
 $author = 'Brian Smith';
 $pubdate = 'Feb. 26, 2017';
-$featured_img = '../../dist/img/tideAd.png';
 
 $firstStatement = "Robert Watkins of the Lansing Community Hospital, a vocal supporter of the program, thinks that cash assistance plays an essential role in allowing the less fortunate to live with dignity. “I think we can all agree that it is important to look out for our neighbors, and that means helping those in our community. We must care for those in need, and this policy helps do just that.”";
 $secondStatement = "";
